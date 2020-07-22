@@ -1,0 +1,75 @@
+<?xml version="1.0" standalone="no" ?><manifest identifier="com.scorm.elucidat.build.5f1801664155d_1595408785" version="1"
+    xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2"
+    xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:lom="http://ltsc.ieee.org/xsd/LOM"
+    xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd
+                       http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd
+                       http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd
+                       http://ltsc.ieee.org/xsd/LOM lom.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+      </metadata>
+  <!-- There is just one organization. The organization contains just one item.-->
+	<organizations default="elucidat_5f1801664155d_1595408785">
+		<organization identifier="elucidat_5f1801664155d_1595408785">
+			<title>TEST</title>
+			<item identifier="item_5f1801664155d_1595408785" identifierref="resource_5f1801664155d_1595408785">
+				<title>TEST</title>
+				<adlcp:masteryscore>80</adlcp:masteryscore>
+			</item>
+		</organization>
+	</organizations>
+	<resources>
+		<resource identifier="resource_5f1801664155d_1595408785" type="webcontent" adlcp:scormtype="sco" href="index.html">
+			<file href="pages/5efc5503c536f.js"/>
+			<file href="vendor/placeholder-image.png"/>
+			<file href="vendor/28b4c9a6e940cefab5a17fb2b62a3061.jpg"/>
+			<file href="vendor/jquery.xdr.js"/>
+			<file href="vendor/017cf0e263776f34e1e05a5ee2c0362b.png"/>
+			<file href="vendor/modernizr-2.6.2.min.js"/>
+			<file href="vendor/mediaelement/loading.gif"/>
+			<file href="vendor/mediaelement/controls.png"/>
+			<file href="vendor/mediaelement/bigplay.svg"/>
+			<file href="vendor/mediaelement/flashmediaelement.swf"/>
+			<file href="vendor/mediaelement/controls-wmp.png"/>
+			<file href="vendor/mediaelement/controls-wmp-bg.png"/>
+			<file href="vendor/mediaelement/bigplay.png"/>
+			<file href="vendor/mediaelement/controls.svg"/>
+			<file href="vendor/mediaelement/flashmediaelement-cdn.swf"/>
+			<file href="vendor/mediaelement/silverlightmediaelement.xap"/>
+			<file href="vendor/mediaelement/mediaelement-and-player.min.js"/>
+			<file href="vendor/mediaelement/flashmediaelement-cdn-2.22.0.swf"/>
+			<file href="vendor/mediaelement/background.png"/>
+			<file href="vendor/mediaelement/controls-ted.png"/>
+			<file href="vendor/9579ad08d7eb2f70d89dc81fea26747b.png"/>
+			<file href="vendor/elucidat-v2.0.min.css"/>
+			<file href="vendor/elucidat-v4.5.min.js"/>
+			<file href="vendor/typicon/icomoon.eot"/>
+			<file href="vendor/typicon/icomoon.woff"/>
+			<file href="vendor/typicon/icomoon.ttf"/>
+			<file href="vendor/typicon/icomoon.svg"/>
+			<file href="vendor/f5effc8132a76b2f953b3c4e532ced2b.jpg"/>
+			<file href="vendor/material/icomoon.eot"/>
+			<file href="vendor/material/icomoon.woff"/>
+			<file href="vendor/material/icomoon.ttf"/>
+			<file href="vendor/material/icomoon.svg"/>
+			<file href="vendor/fontawesome/icomoon.eot"/>
+			<file href="vendor/fontawesome/icomoon.woff"/>
+			<file href="vendor/fontawesome/icomoon.ttf"/>
+			<file href="vendor/fontawesome/icomoon.svg"/>
+			<file href="vendor/bootstrap/fontawesome-webfont.eot"/>
+			<file href="vendor/bootstrap/fontawesome-webfont.woff"/>
+			<file href="vendor/bootstrap/fontawesome-webfont.svg"/>
+			<file href="vendor/bootstrap/glyphicons-halflings-white.png"/>
+			<file href="vendor/bootstrap/glyphicons-halflings.png"/>
+			<file href="vendor/bootstrap/fontawesome-webfont.ttf"/>
+			<file href="vendor/bootstrap/fontawesome-webfont.woff2"/>
+			<file href="index.html"/>
+			<file href="assets/5f1801664155d.js"/>
+			<file href="assets/5f1801664155d.css"/>
+			<file href="login.html"/>
+		</resource>
+	</resources>
+</manifest>

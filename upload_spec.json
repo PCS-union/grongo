@@ -1,0 +1,32 @@
+{
+    "made_files": {
+        "0": {
+            "file_name": "5f1801664155d.css",
+            "file_path": "\/app\/_userPublish\/production_582af126868ef_release_5f1801664155d\/assets\/5f1801664155d.css",
+            "content_type": "text\/css"
+        },
+        "1": {
+            "file_name": "5f1801664155d.js",
+            "file_path": "\/app\/_userPublish\/production_582af126868ef_release_5f1801664155d\/assets\/5f1801664155d.js",
+            "content_type": "application\/javascript"
+        },
+        "2": {
+            "file_name": "5efc5503c536f.js",
+            "file_path": "\/app\/_userPublish\/production_582af126868ef_release_5f1801664155d\/pages\/5efc5503c536f.js",
+            "content_type": "application\/javascript"
+        },
+        "launch.html": {
+            "file_name": "launch.html",
+            "file_path": "\/app\/_userPublish\/production_582af126868ef_release_5f1801664155d\/launch.html",
+            "content_type": "text\/html"
+        },
+        "3": {
+            "file_name": "login.html",
+            "file_path": "\/app\/_userPublish\/production_582af126868ef_release_5f1801664155d\/login.html",
+            "content_type": "text\/html"
+        }
+    },
+    "homepage_url": "5efc5503c536f.js",
+    "css_url": "5f1801664155d.css",
+    "js_url": "5f1801664155d.js"
+}
